@@ -15,7 +15,7 @@ export default function ProTip() {
   return (
     <Typography sx={{ mt: 6, mb: 3 }} color="text.secondary">
       <LightBulbIcon sx={{ mr: 1, verticalAlign: "middle" }} />
-      Pro tip: Click on the card for more information.
+      Pro tip: Click on an item for more information.
     </Typography>
   );
 }
